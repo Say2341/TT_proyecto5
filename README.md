@@ -12,3 +12,6 @@ Antes de utilizar la app debes saber que necesitas algunos requerimientos
     - Pandas
     - Plotly_express
     - Streamlit
+
+++ Link a la aplicación ++
+https://tt-proyecto5-1.onrender.com/
